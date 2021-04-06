@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63369123140",
+    "firebase_url": "https://trans247-187d3.firebaseio.com",
+    "project_id": "trans247-187d3",
+    "storage_bucket": "trans247-187d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63369123140:android:d28c821e55d008447cf311",
+        "android_client_info": {
+          "package_name": "com.Danthop.trans_24_7_cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63369123140-cdcsnt2jn0spqn4s2ua75ng0o3bfmbl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaEfJUEKp9CmSYL_7M5DGs8SyM0O_xrvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63369123140-cdcsnt2jn0spqn4s2ua75ng0o3bfmbl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
