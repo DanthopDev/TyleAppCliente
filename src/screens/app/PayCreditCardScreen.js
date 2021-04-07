@@ -158,7 +158,7 @@ class PayCreditCardScreen extends Component {
         let expYear= validArray[1];
         let conektaApi = new Conekta();
 
-        conektaApi.setPublicKey('key_KJysdbf6PotS2ut2');
+        conektaApi.setPublicKey('key_LVCcgmJmxNK4CsZoHyxqjdQ');
 
         conektaApi.createToken({
             cardNumber: card,
